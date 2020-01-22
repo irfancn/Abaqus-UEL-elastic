@@ -1,7 +1,7 @@
 c ======================================================================
 c User Subroutine UEL for linear elastic material
 c All rights of reproduction or distribution in any form are reserved.
-c By Irfan Habeeb CN (Technion - IIT), cnirfan@gmail.com
+c By Irfan Habeeb CN (PhD, Technion - IIT), cnirfan@gmail.com
 c ======================================================================
       subroutine uel(rhs,amatrx,svars,energy,ndofel,nrhs,nsvars,
      1 props,nprops,coords,mcrd,nnode,u,du,v,a,jtype,time,dtime,
