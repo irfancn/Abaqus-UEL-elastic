@@ -1,5 +1,5 @@
 # UEL-elastic
-To define an element for FEA under implicit analysis. UEL provides freedom to modify the base/shape functions and add additional degree of freedom and their spatial derivatives, which are otherwise not accessible in Abaqus.
+To define an element for FEA under implicit analysis. UEL provides the freedom to modify the base/shape functions and add additional degree of freedom and their spatial derivatives, which are otherwise not accessible in Abaqus.
 
 The UEL is written for 2D analysis using linear triangular elements.
 
